@@ -5,3 +5,5 @@ Objetivo: comprender la funciones basica de una aplicacion para dispositivos mov
 ![image](https://github.com/joseaha/crud_react/assets/122076475/66c08b49-3eec-4c3b-9df7-e12ce1cb01e2)
 
 ![image](https://github.com/joseaha/crud_react/assets/122076475/d7bba848-5d2d-47bc-a946-894f64277786)
+
+![image](https://github.com/joseaha/crud_react/assets/122076475/948a82f8-51e0-4ab1-8fe5-1d12cfd5fad0)
